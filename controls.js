@@ -22,7 +22,7 @@
             xmlhttp.send(); 
         }
         function append_json(data){
-            var table = document.getElementById('reading-table');
+            var table = document.getElementById('reading-list');
             data.forEach(function(object) {
                 var tr = document.createElement('tr');
                 tr.innerHTML = '<td>' + object.NAME + '</td>' +
