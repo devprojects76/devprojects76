@@ -1,4 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
-
+theme: jekyll-theme-minimal
 title: Cyber Reading List
 description: Creating a short reading list for cyberfolks
