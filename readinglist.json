@@ -1,1 +1,10 @@
-readinglist
+[
+  { "NAME":<a href="http://www.google.com/search?q=the+hunters+in+the+snow">The Hunters in the Snow</a>, "LoC":"abc", "TYPE":"article", "SUBJECTAREA":"PQC", "DATE":"TBD" },
+]
+
+
+<th style="width:30%">&nbsp&nbspNAME</th>
+              <th style="width:20%">&nbsp&nbspAUTHOR</th>
+              <th style="width:20%">&nbsp&nbspTYPE</th>
+              <th style="width:20%">&nbsp&nbspSUBJECTAREA</th>
+              <th style="width:10%">&nbsp&nbspDATE</th>
