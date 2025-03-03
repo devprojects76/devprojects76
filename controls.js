@@ -25,7 +25,7 @@
             var table = document.getElementById('reading-list');
             data.forEach(function(object) {
                 var tr = document.createElement('tr');
-                tr.innerHTML = <td>' + object.NAME + '</td>' +
+                tr.innerHTML = '<td>' + object.NAME + '</td>' +
                 '<td>' + object.AUTHOR + '</td>' +
                 '<td>' + object.TYPE + '</td>' +
                 '<td>' + object.SUBJECTAREA + '</td>' +  
